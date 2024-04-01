@@ -1,4 +1,4 @@
-# Telagram-Bot-using-GenAI
+# Telagram Bot
 
 ## Prerequisites
 To follow this tutorial, you will need:
@@ -33,8 +33,9 @@ Search for botfather
 talkbot
 talkbot_bot
 Now click on url to access the bot
+
 Make sure you collect the access token
+
 Add in .env
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Drive link for other integrations
